@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ref-01",
+    "src": "references/ref-01.jpg",
+    "title": "Balcony elevation",
+    "description": "Three visible above-ground tiers, beige facade, dark screens and glass balcony rails."
+  },
+  {
+    "id": "ref-02",
+    "src": "references/ref-02.jpg",
+    "title": "Garden-side perspective",
+    "description": "Glazed garden wings, layered terraces and deep roof overhangs."
+  },
+  {
+    "id": "ref-03",
+    "src": "references/ref-03.jpg",
+    "title": "Covered parking approach",
+    "description": "Selected entrance reference: covered bay, paved driveway, concrete walls and warm soffit."
+  },
+  {
+    "id": "ref-04",
+    "src": "references/ref-04.jpg",
+    "title": "Garden courtyard",
+    "description": "Open lawn, stepping-stone paths and sheltered concrete patio edge."
+  },
+  {
+    "id": "ref-05",
+    "src": "references/ref-05.jpg",
+    "title": "Sunken garden lounge",
+    "description": "Rear-facing reference with sunken seating, central fire feature and glazed garden facade."
+  },
+  {
+    "id": "ref-06",
+    "src": "references/ref-06.jpg",
+    "title": "Driveway and retaining walls",
+    "description": "Arrival view with covered parking, steps, retaining walls and planting."
+  },
+  {
+    "id": "ref-07",
+    "src": "references/ref-07.jpg",
+    "title": "Parking approach alternate",
+    "description": "Alternate supplied version of the entrance and covered-parking render."
+  },
+  {
+    "id": "ref-08",
+    "src": "references/ref-08.jpg",
+    "title": "Main garden entrance",
+    "description": "Broad lawn-facing glazed bays, central timber-tone entrance and deep canopy."
+  },
+  {
+    "id": "ref-09",
+    "src": "references/ref-09.jpg",
+    "title": "Street-facing elevation",
+    "description": "Stacked balconies, three visible above-ground tiers and dark facade screening."
+  },
+  {
+    "id": "ref-10",
+    "src": "references/ref-10.jpg",
+    "title": "Street-corner perspective",
+    "description": "Corner facade, glass rails, rounded roof edges and perimeter wall."
+  },
+  {
+    "id": "ref-11",
+    "src": "references/ref-11.jpg",
+    "title": "Gate and landscape",
+    "description": "Paved entry route, dark slatted gate, stepped retaining walls and planting."
+  }
+]
